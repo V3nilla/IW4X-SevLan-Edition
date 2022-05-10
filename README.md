@@ -11,3 +11,7 @@
 
 #### Будет ли этот репозиторий обновлятся?
 Нет и ещё раз - нет.
+
+##### А как скачать?
+Ссылка на скачку тут - https://drive.google.com/file/d/1nVRrOYBj81ZvS6ewlvXFQbegKf9hF0n7/view?usp=sharing
+Перебрасываем папки **userraw** и **zone** в папку игры с заменой файлов, пример - D:\Modern Warfare 2 (IW4X)
