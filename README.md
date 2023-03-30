@@ -1,4 +1,6 @@
 # IW4X-SevLan-Edition
+**ONLY FOR RUSSIAN LANGUAGE MW2 VERSION, OTHERWISE YOU WILL GET TOO MUCH IN-GAME ARTIFACTS**
+
 Данный репозиторий создан для тех людей, которые хотят вновь интерфейс проекта по MW2 - SevLan и вкусить ностальгию
 
 # О проекте SevLan
